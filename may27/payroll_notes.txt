@@ -1,0 +1,27 @@
+Setting up a Part Time Pay Application
+
+35.75 pay per hour
+30 hours a week
+.03 tax rate federal
+.02 tax rate state
+
+35.75 * 30 = 1072.5
+
+1072.5 * .03
+
+
+
+
+
+Steps to do before Coding
+
+1. Variable Declaration
+2. Ask user Inputs
+3. List of Operations
+4. Display
+
+
+Library in Java
+- java util
+    - scanner (has a group of methods/fucntions)
+        - nextInt(), nextDouble(), nextLine()
