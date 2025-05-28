@@ -1,0 +1,12 @@
+Application behavior
+1. Sequential behavior
+    - Every single line executes top to bottom
+2. Selective (condition)
+    - For exmaple, setting a limit to total hours worked for part time (between 20 and 40 hours are valid)
+    - 5 Kinds of selective Statement
+        1. Simple if
+        2. Branch (if/else)
+        3. Multi Branch (if else if, else if, else)
+        4. Nested (if else, else)
+        5. Switch
+3. Repeating (loop)
