@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class getBMI {
+public class getBMI_HW {
     public static void main(String[] args)
     {
         //step 1, define variables
@@ -26,10 +26,4 @@ public class getBMI {
     }
 }
 
-/*
- * clarify with instructor
- * INPUT VALIDATION
- * what if the user enters a letter, do you want to display a message and ask for input again?
- * what if user enters unrealistic numbers?
- * what if user wants to enter kilos/cm?
- */
+// Instructions do not include displaying the actual BMI, instead we are told to just display the message.

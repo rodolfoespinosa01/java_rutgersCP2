@@ -1,8 +1,8 @@
-//may29
+//may28
 
 import java.util.Scanner;
 
-public class AverageAge {
+public class AverageGrade {
     public static void main(String[] args)
     {
         //step 1: variable declaration

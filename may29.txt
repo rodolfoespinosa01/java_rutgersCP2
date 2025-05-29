@@ -1,5 +1,6 @@
 3 types of Loops
 
-1. for Loop
+1. for Loop - this can be used if you know other events
+    - check inside ForLoop.java , total and index is a accumalator
 2. while Loop
 3. do, while Loop
