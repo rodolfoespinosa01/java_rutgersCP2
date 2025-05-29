@@ -39,5 +39,6 @@ public class doWhile {
 
 /*
  * clarify with instructor
+ * INPUT VALIDATION
  * what if the user enters a letter, do you want to display a message and ask for input again?
  */
