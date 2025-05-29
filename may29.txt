@@ -1,0 +1,5 @@
+3 types of Loops
+
+1. for Loop
+2. while Loop
+3. do, while Loop
