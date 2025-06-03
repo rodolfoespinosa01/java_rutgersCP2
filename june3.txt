@@ -1,0 +1,24 @@
+1. 
+2.
+3. the body of a method is enclosed in
+4.
+5.
+6. you must have a return return statement in a value-returning method. TRUE
+7.when code in a method changes the value of a parameter, it also changes the value of the argument that was passed into the paramter. FALSE
+
+MISSING RETURN STATEMENT IN CODE BELOW
+public static double timesTwo(double num)
+{
+    double result = num*2
+}
+
+CANT BE INTO AND ALSO DOUBLE
+public static int half(double num)
+{
+    double result = num/2.0;
+    return result;
+}
+
+Notes about "class"
+
+class Time - we have hours, minutes, and seconds. they are all int (just assume)
