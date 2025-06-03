@@ -1,8 +1,6 @@
 // May 29
 // Do while example
 
-import java.util.Scanner;
-
 public class doWhile {
     public static void main(String[] args) {
         int i = 5;

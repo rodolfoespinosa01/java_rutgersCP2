@@ -63,6 +63,6 @@ public class storeArray {
             System.out.println("You have no grades entered.");
         }
 
-    
+    keyboard.close();
    }
 }

@@ -21,5 +21,7 @@ public class AdditionMethodFirst
         sum = num1 + num2;
         //step 4
         System.out.println("The sum of " + num1 + " and " + num2 +" is " + sum);
+
+        keyboard.close();
     }
 }

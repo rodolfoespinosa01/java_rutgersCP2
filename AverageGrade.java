@@ -45,5 +45,6 @@ public class AverageGrade {
             System.out.println("Your letter grade is F.");
         }
         
+        keyboard.close();
     }
 }

@@ -23,6 +23,8 @@ public class getBMI_HW {
         } else {
             System.out.println("You are underweight."); //if bmi under 18.5, display this message to user
         }
+    
+        keyboard.close();
     }
 }
 

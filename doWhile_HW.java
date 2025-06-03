@@ -34,5 +34,7 @@ public class doWhile_HW {
         } else {
             System.out.println("No valid grades were entered."); //if user enters 999 without entering any numbers, display this message
         }
+
+    keyboard.close();
     }
 }

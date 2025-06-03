@@ -6,23 +6,23 @@ public class ForLoop {
     public static void main(String[] args)
     {
         //step 1: variable declaration
-        Scanner input = new Scanner (System.in);
+        Scanner keyboard = new Scanner (System.in);
         double grade, total=0.0, average = 0.0;
         int size;
 
         System.out.println("How many grades to enter?");
-        size = input.nextInt();
+        size = keyboard.nextInt();
 
 
         // step2: ask user input
         for (int index = 0; index < size; index++)
         {
             System.out.print("Enter grade " + (index+1) +": " );
-            grade = input.nextDouble();
+            grade = keyboard.nextDouble();
             while(grade < 0 || grade > 100)
             {
                 System.out.print("Please enter a value between 0 and 100: ");
-                grade = input.nextDouble();
+                grade = keyboard.nextDouble();
             }
             total = total + grade;
         }
@@ -57,6 +57,8 @@ public class ForLoop {
             System.out.println("You have no grades entered.");
         }
         
+    
+        keyboard.close();
         
     }
 }
