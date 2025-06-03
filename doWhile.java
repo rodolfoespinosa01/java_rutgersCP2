@@ -1,3 +1,6 @@
+// May 29
+// Do while example
+
 import java.util.Scanner;
 
 public class doWhile {

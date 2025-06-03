@@ -1,0 +1,6 @@
+ASk user to enter two numbers
+
+calculcaue sum
+
+display sum
+declar as integer
