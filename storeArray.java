@@ -1,4 +1,3 @@
-//June 2
 
 import java.util.Scanner;
 

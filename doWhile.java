@@ -1,6 +1,3 @@
-// May 29
-// Do while example
-
 public class doWhile {
     public static void main(String[] args) {
         int i = 5;

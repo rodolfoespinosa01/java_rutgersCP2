@@ -1,6 +1,4 @@
-//june3
 import java.util.Scanner;
-
 
 public class AdditionMethodThird {
     public static void main(String[] args)

@@ -1,5 +1,3 @@
-//may28
-
 import java.util.Scanner;
 
 public class AverageGrade {

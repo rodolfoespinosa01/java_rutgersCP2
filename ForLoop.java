@@ -1,5 +1,3 @@
-//May 29
-
 import java.util.Scanner;
 
 public class ForLoop {

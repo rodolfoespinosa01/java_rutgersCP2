@@ -1,4 +1,3 @@
-// May 27th
 import java.util.Scanner;
 
 public class Payroll

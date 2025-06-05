@@ -1,5 +1,3 @@
-//May 28
-//Multi Branch
 
 import java.util.Scanner;
 

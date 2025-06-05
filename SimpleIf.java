@@ -1,5 +1,4 @@
-//May 28th
-//If else
+
 import java.util.Scanner;
 
 public class SimpleIf {

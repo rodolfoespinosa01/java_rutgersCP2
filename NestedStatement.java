@@ -1,6 +1,3 @@
-//May 28th
-// nestedStatement
-
 import java.util.Scanner;
 
 public class NestedStatement {
