@@ -20,5 +20,7 @@ public static int half(double num)
 }
 
 Notes about "class"
-
+refer to Time.java
 class Time - we have hours, minutes, and seconds. they are all int (just assume)
+
+side note: "method has return type void"
