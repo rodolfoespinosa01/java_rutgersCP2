@@ -22,6 +22,10 @@ public class Rectangle {
     {
         this.width = w;
     }
+    public int getArea()
+    {
+        return length * width;
+    }
     public String toString()
     {
         return "This rectangle length is " + length + " and width is " + width;
