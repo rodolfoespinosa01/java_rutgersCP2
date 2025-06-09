@@ -4,7 +4,7 @@ public class RectangleDemo {
         int area2, area3;
 
         Rectangle r2 = new Rectangle(10,5);
-        Rectangle r3 = new Rectangle(25,2);
+        Rectangle r3 = new Rectangle(10,5);
 
         if (r2.equals(r3))
         {
