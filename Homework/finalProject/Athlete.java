@@ -18,7 +18,7 @@ public class Athlete {
         athleteCount++; // increment the static counter
     }
 
-    // Accessors (getters)
+    // Accessors
     public String getName() {
         return name;
     }
@@ -31,7 +31,7 @@ public class Athlete {
         return sport;
     }
 
-    // Mutators (setters)
+    // Mutators
     public void setName(String name) {
         this.name = name;
     }

@@ -1,5 +1,5 @@
-// Subclass of Athlete (Requirement b)
-// Implements Trainable interface (Requirement c)
+// Subclass of Athlete 
+// Implements Trainable interface 
 // Method Overloading: setStats()
 // Method Overriding (without using @Override)
 
@@ -54,13 +54,13 @@ public class Boxer extends Athlete implements Trainable {
         this.losses = losses;
     }
 
-    // Overriding toString method (no @Override used)
+    // Overriding toString method
     public String toString() {
         return super.toString() + ", Weight Class: " + weightClass +
                ", Wins: " + wins + ", Losses: " + losses;
     }
 
-    // Implementing interface methods (no @Override used)
+    // Implementing interface methods
     public void train() {
         System.out.println(getName() + " is training hard for the next fight.");
     }

@@ -1,5 +1,3 @@
-// ✅ This main program demonstrates all the required features
-
 public class SportsDemo {
     public static void main(String[] args) {
         // Polymorphism: using superclass reference to subclass object

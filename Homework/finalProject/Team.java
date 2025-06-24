@@ -1,4 +1,4 @@
-// Requirement (h): Aggregation
+// Aggregation
 // The Team class contains Athlete objects, but is not a subclass
 
 import java.util.ArrayList;
